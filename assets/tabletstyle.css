@@ -1,0 +1,46 @@
+/* Screen max width: 800px */
+
+/*header*/
+
+header{
+  width: 100%;
+  margin: auto;
+}
+  h1{
+    width: 70%;
+    margin: auto;
+    padding-top: 0.5em;
+    font-size: 3em;
+    font-family: 'Fredericka the Great', cursive;
+    color: #fef4f4;
+    text-align: center;
+    border: 1px solid yellow;
+}
+
+/* Screen max width: 375px */
+header{
+  width: 100%;
+  margin: auto;
+}
+
+.site-title{
+  writing-mode: vertical-lr;
+  -ms-writing-mode: tb-lr;
+  -webkit-writing-mode:vertical-lr;
+}
+
+.decoration{
+  margin-top: -2em;
+  font-size: 9em;
+}
+  /*h1{
+    width: 70%;
+    margin: auto;
+    padding-top: 0.5em;
+    font-size: 3em;
+    font-family: 'Fredericka the Great', cursive;
+    color: #fef4f4;
+    text-align: center;
+    border: 1px solid yellow;
+}
+*/

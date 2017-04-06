@@ -1,0 +1,56 @@
+/* ----------------------------------- *
+ * Sakura Garden CSS
+ * Floats
+ * Absolute Positioning
+ * Background Images, Colors and Gradients
+ * Fonts and Typography
+ * CSS3 Transitions and Animations
+ * ----------------------------------- */
+
+ /* font */
+ @import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Fredericka+the+Great|Monoton');
+
+ h1{
+  margin-left: 1em;
+  font-size: 5em;
+  font-family: 'Fredericka the Great', cursive;
+  color: #fef4f4;
+  border: 1px solid white;
+}
+
+.site-title{
+  writing-mode: vertical-lr;
+  -ms-writing-mode: tb-lr;
+  -webkit-writing-mode:vertical-lr;
+}
+
+.decoration{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -1em;
+  padding-top: 1%;
+}
+
+h1.decoration{
+  font-size: 20em;
+  text-align: center;
+  transform: scale(1,1.5);
+  color: #333;
+}
+
+/* body setting */
+ body {
+    font-family: 'Droid Sans', sans-serif;
+    color: #333;
+    background-color: #474a4d;
+}
+
+
+
+
+
+
+
+
+
